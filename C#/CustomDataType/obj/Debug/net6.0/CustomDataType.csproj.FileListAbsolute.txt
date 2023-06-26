@@ -1,0 +1,15 @@
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\CustomDataType.exe
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\CustomDataType.deps.json
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\CustomDataType.runtimeconfig.json
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\CustomDataType.dll
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\ref\CustomDataType.dll
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\bin\Debug\net6.0\CustomDataType.pdb
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.csproj.AssemblyReference.cache
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.AssemblyInfoInputs.cache
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.AssemblyInfo.cs
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.csproj.CoreCompileInputs.cache
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.dll
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\ref\CustomDataType.dll
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.pdb
+D:\School\Jaar 3\Hoofdfase\ICPT\s1107878_icpt\C#\CustomDataType\obj\Debug\net6.0\CustomDataType.genruntimeconfig.cache
